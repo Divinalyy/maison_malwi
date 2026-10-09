@@ -1,0 +1,10 @@
+{
+  "name": "Maison Malwi — Conseillère Vocale Léa",
+  "description": "Léa, conseillère vocale experte et amie virtuelle de Maison Malwi. Diagnostic capillaire sur-mesure pour perruques, extensions et rituels de soin.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
